@@ -42,6 +42,10 @@ header {
   border-radius: 6px;
   border: none;
   margin-right: 10%;
+  transition: background-color 0.5s;
+}
+.dugme:hover {
+  background-color: #a9d056;
 }
 #logo {
   color: #2487ce;
@@ -118,4 +122,7 @@ html {
 .strela {
   padding: 0%;
   color: ;
+}
+.recenice {
+  text-indent: 2%;
 }
